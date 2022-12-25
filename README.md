@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am beginning Web Developer from Russia
+#### I am beginer Web Developer from Russia
 
 * 🔭 I’m looking for the first job as a Software Engineer.
 
