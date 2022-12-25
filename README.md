@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, my name is ![CodeWars](https://www.codewars.com/users/Arrcontender/badges/small) 👋
 
-#### I am a beginner Web Developer from Russia
+#### I am a beginner Web Developer from Russia 
 
 * 🔭 I’m looking for the first job as a Software Engineer.
 
