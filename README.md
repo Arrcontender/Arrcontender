@@ -14,11 +14,11 @@
 
 ### 🎯 Projects I'm currently working on:
 
-* [Beat Store Telegram Bot](https://github.com/Arrcontender/beatstore-telegram-bot) - helps producers sell their instumentals via Telegram. Bot uses aiogram.
+* [Beat Store Telegram Bot (Python)](https://github.com/Arrcontender/beatstore-telegram-bot) - helps producers sell their instumentals via Telegram. Bot uses aiogram.
 
-* [Calorie Counting Web Site](https://github.com/Arrcontender/dj_calories_petproj) - simple web app for calorie tracking, which uses Django and Sqlite.
+* [Calorie Counting Web Site (Python)](https://github.com/Arrcontender/dj_calories_petproj) - simple web app for calorie tracking, which uses Django and Sqlite.
 
-* [Ozon Scraper](https://github.com/Arrcontender/test_project_ozon_parser) - scripts to parse data from marketplace (Selenium and Scrapy).
+* [Ozon Scraper (Python)](https://github.com/Arrcontender/test_project_ozon_parser) - scripts to parse data from marketplace (Selenium and Scrapy).
 
 ---
 
