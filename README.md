@@ -20,6 +20,8 @@
 
 * [Ozon Scraper (Python)](https://github.com/Arrcontender/test_project_ozon_parser) - scripts to parse data from marketplace (Selenium and Scrapy).
 
+* [Finding Differences in Files (PHP)](https://github.com/Arrcontender/php-project-48) - This is an application implemented as part of the second project while studying the profession of PHP developer on Hexlet
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
