@@ -14,13 +14,15 @@
 
 ### 🎯 Projects I'm currently working on:
 
+* [Cloud Storage (PHP)](https://github.com/Arrcontender/php-cloud-storage-api) - REST Api Cloud Storage. (Laravel + Vue.js)
+
 * [Beat Store Telegram Bot (Python)](https://github.com/Arrcontender/beatstore-telegram-bot) - helps producers sell their instumentals via Telegram. Bot uses aiogram.
 
 * [Calorie Counting Web Site (Python)](https://github.com/Arrcontender/dj_calories_petproj) - simple web app for calorie tracking, which uses Django and Sqlite.
 
 * [Ozon Scraper (Python)](https://github.com/Arrcontender/test_project_ozon_parser) - scripts to parse data from marketplace (Selenium and Scrapy).
 
-* [Finding Differences in Files (PHP)](https://github.com/Arrcontender/php-project-48) - This is an application implemented as part of the second project while studying the profession of PHP developer on Hexlet
+* [Finding Differences in Files (PHP)](https://github.com/Arrcontender/php-project-48) - this is an application implemented as part of the second project while studying the profession of PHP developer on Hexlet
 
 ---
 
