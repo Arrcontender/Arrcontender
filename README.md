@@ -14,7 +14,9 @@
 
 ### 🎯 Projects I'm currently working on:
 
-* [Cloud Storage (PHP)](https://github.com/Arrcontender/php-cloud-storage-api) - REST API Cloud Storage. (Laravel + Vue.js)
+* [Text Editor (PHP + JS)](https://github.com/Arrcontender/string-helper) - The application is used to determine the language of the entered string (rus/eng) and highlight characters that are not included in the alphabet of the given string's language. This is a fully working application (Laravel + Vue.js)
+
+* [Cloud Storage (PHP + JS)](https://github.com/Arrcontender/php-cloud-storage-api) - REST API Cloud Storage. (Laravel + Vue.js)
 
 * [Beat Store Telegram Bot (Python)](https://github.com/Arrcontender/beatstore-telegram-bot) - helps producers sell their instumentals via Telegram. Bot uses aiogram.
 
