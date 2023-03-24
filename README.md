@@ -2,7 +2,7 @@
 
 #### I am a beginner Web Developer from Russia 
 
-* 🔭 I’m looking for the first job as a Software Engineer.
+* 🔭 I’m working as a Software Engineer.
 
 * 🌱 Exploring Network Programming.
 
