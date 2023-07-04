@@ -14,7 +14,9 @@
 
 ### 🎯 Projects I'm currently working on:
 
-* [Text Editor (PHP + JS)](https://github.com/Arrcontender/string-helper) - The application is used to determine the language of the entered string (rus/eng) and highlight characters that are not included in the alphabet of the given string's language. This is a fully working application (Laravel + Vue.js)
+* [MusLaces](https://github.com/Arrcontender/MusLaces) - a website where you can rate bars and music venues, find events for yourself with various genres of music to the taste of the user.
+
+* [Text Editor (PHP + JS)](https://github.com/Arrcontender/string-helper) - the application is used to determine the language of the entered string (rus/eng) and highlight characters that are not included in the alphabet of the given string's language. This is a fully working application (Laravel + Vue.js)
 
 * [Cloud Storage (PHP + JS)](https://github.com/Arrcontender/php-cloud-storage-api) - REST API Cloud Storage. (Laravel + Vue.js)
 
